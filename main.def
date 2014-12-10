@@ -1,0 +1,7 @@
+;LIBRARY      "AdditionServiceService"
+
+
+EXPORTS
+
+	DllMain				@1
+	fnSomme				@2
